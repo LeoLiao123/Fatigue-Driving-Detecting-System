@@ -2,7 +2,7 @@
 
 這是一個使用 `dlib` 和 `cv2` (OpenCV) 建立的疲勞偵測系統且整合Ubidots和樹梅派來演示功能。它可以偵測使用者的眼睛和嘴巴的動作，以判斷使用者是否感到疲勞。
 
-##Demo & 程式流程
+## Demo & 程式流程
 
 ![image](https://github.com/LeoLiao123/Fatigue-Driving-Detecting-System/assets/93932709/55753dad-15da-4922-9f10-405b121aef40)
 

@@ -64,7 +64,7 @@ python your_code_name.py
 
 https://steam.oxxostudio.tw/category/python/ai/ai-face-recognizer.html
 
-chrome-extension://bocbaocobfecmglnmeaeppambideimao/pdf/viewer.html?file=https%3A%2F%2Fvision.fe.uni-lj.si%2Fcvww2016%2Fproceedings%2Fpapers%2F05.pdf
+[chrome-extension://bocbaocobfecmglnmeaeppambideimao/pdf/viewer.html?file=https%3A%2F%2Fvision.fe.uni-lj.si%2Fcvww2016%2Fproceedings%2Fpapers%2F05.pdf](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
 
 https://blog.csdn.net/cungudafa/article/details/103496881
 

@@ -59,7 +59,7 @@ python your_code_name.py
 請在光線充足的地方使用此系統，以提高偵測的準確性。
 
 
-##參考資料
+## 參考資料
 
 https://steam.oxxostudio.tw/category/python/ai/ai-face-recognizer.html
 

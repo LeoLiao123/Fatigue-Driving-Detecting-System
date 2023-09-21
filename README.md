@@ -66,5 +66,5 @@ https://steam.oxxostudio.tw/category/python/ai/ai-face-recognizer.html
 
 http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
 
-https://blog.csdn.net/cungudafa/article/details/103496881
+[https://blog.csdn.net/cungudafa/article/details/103496881](https://www.cnblogs.com/lushuang55/p/17396900.html)https://www.cnblogs.com/lushuang55/p/17396900.html
 
